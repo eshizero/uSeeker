@@ -21,6 +21,7 @@
 //cuando supere el 30% deb volver a funcionar todo correctamente, se debe dormir el GPS y el GSM
 //verificador de sim
 
+
 //pines usados por los modulos
 #define GPRS_Tx 7
 #define GPRS_Rx  6
